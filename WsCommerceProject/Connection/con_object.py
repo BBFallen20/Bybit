@@ -7,6 +7,3 @@ ws = BybitWebsocket(
     api_secret='0vvUOZAOK6EoZ8PuqjvrLKcNZWyU3iF90p97'
 )
 
-
-#AYLFUOcvXIoZzGMv1C
-#0vvUOZAOK6EoZ8PuqjvrLKcNZWyU3iF90p97
