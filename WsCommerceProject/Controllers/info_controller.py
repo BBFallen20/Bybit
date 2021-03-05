@@ -16,5 +16,6 @@ class InfoController(object):
                 pass
 
 
+
 a = InfoController()
 a.get_data()
